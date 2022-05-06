@@ -1,35 +1,36 @@
 # Hi there, my name is Ricardo Rodriguez Gonzalez - aka [Gunzerex][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQIcQ3zI9siH8VKnlIC80Fw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gunzerex?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a Student, Developer, and Gamer!!
 
-🇵🇷 I am from Puerto Rico.
-[🇪🇸/🇺🇸] I am also fully bilingual. (Spanish & English)
-👨‍🎓 I am a Software Engineering undergraduate student at the University of Puerto Rico - Mayaguez Campus
-💼 I am currently in my fourth year and actively seeking internships or COOP opportunities in order to acquire more professional experience.
-👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others may be personal.
+🇵🇷 I am from Puerto Rico. <br>
+[🇪🇸/🇺🇸] I am also fully bilingual. (Spanish & English)<br>
+👨‍🎓 I am a Software Engineering undergraduate student at the University of Puerto Rico - Mayaguez Campus<br>
+💼 I am currently in my fourth year and actively seeking internships or COOP opportunities in order to acquire more professional experience.<br>
+👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others may be personal.<br>
 👨‍🏫 I am currently learning Python, HTML, CSS, and JavaScript. Also, I am learning Portuguese on Duolingo!
 
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](/images/maildotru.svg)](ricardo.rodriguez67@upr.edu)
+<!-- [![website](./img/globe-light.svg)](https://codestackr.com) -->
+<!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/gunzerex#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/gunzerex#gh-dark-mode-only)
+[![website](/images/linkedin.svg)](https://linkedin.com/in/ricky-rodz-gonz-se2754)
+<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ricky-rodz-gonz-se2754#gh-dark-mode-only) -->
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/gunzerex#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/gunzerex#gh-dark-mode-only)
+[![website](/images/youtube.svg)](https://youtube.com/gunzerex)
+<!-- [![website](/images/youtube.svg)](https://youtube.com/gunzerex#gh-dark-mode-only) -->
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ricky-rodz-gonz-se2754#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ricky-rodz-gonz-se2754#gh-dark-mode-only)
+[![website](/images/twitter.svg)](https://twitter.com/gunzerex)
+<!-- [![website](./img/twitter-dark.svg)](https://twitter.com/gunzerex#gh-dark-mode-only) -->
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/gunzerex#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/gunzerex#gh-dark-mode-only)
+[![website](/images/instagram.svg)](https://instagram.com/gunzerex)
+<!-- [![website](./img/instagram-dark.svg)](https://instagram.com/gunzerex#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
@@ -39,18 +40,20 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Pyhton" width="26px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="padding-right:10px;" />](https://www.python.org/psf-landing/)
+[<img align="left" alt="Pyhton" width="26px" src="/images/icons8-python.svg" style="padding-right:10px;" />](https://www.python.org/psf-landing/)
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" style="padding-right:10px;" />](https://www.java.com/en/)
 [<img align="left" alt="Virtual Box" width="26px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" style="padding-right:10px;" />](https://www.virtualbox.org)
-<!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />] -->
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-
+[<img align="left" alt="Microsoft Teams" width="26px" src="[/images/../../images/microsoftteams.svg]" style="padding-right:10px;" />](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+[<img align="left" alt="Microsoft Outlook" width="26px" src="[/images/microsoftoutlook.svg]" style="padding-right:10px;" />](https://outlook.office.com)
+[<img align="left" alt="Microsoft Word" width="26px" src="[/../images/microsoftword.svg]" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/word)
+[<img align="left" alt="Microsoft Excel" width="26px" src="[/../images/microsoftexcel.svg.svg]" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/excel)
+[<img align="left" alt="Microsoft Power Point" width="26px" src="[/images/../../images/microsoftpowerpoint.svg.svg]" style="padding-right:10px;" />]([/images/microsoftoutlook.svg](https://www.microsoft.com/en-ww/microsoft-365/powerpoint))
+<!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />] -->
 <br />
 <br />
 
