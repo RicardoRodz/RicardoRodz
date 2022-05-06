@@ -12,13 +12,15 @@
 
 
 ## Find me on:
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQIcQ3zI9siH8VKnlIC80Fw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
+[![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[<img align="left" alt="Discord" width="26px" src="/images/discord.svg" style="padding-right:10px;" />][discord]
+[![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Twitter Follow](https://img.shields.io/twitter/follow/gunzerex?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![](https://img.shields.io/instagram/follow/gunzerex?color=1DA1F2&logo=instagram&style=for-the-badge)][instagram]
-[![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![/images/discord.svg](https://img.shields.io/badge/Discord-Message-blueviolet)][discord]
-[![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
-[![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQIcQ3zI9siH8VKnlIC80Fw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
+
 <!-- [![website](/images/maildotru.svg)](ricardo.rodriguez67@upr.edu) -->
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com) -->
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
@@ -50,11 +52,11 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com#gh-light-mode-only)
-[<img align="left" alt="Microsoft Teams" width="26px" src="[/../images/microsoftteams.svg]" style="padding-right:10px;" />](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
-[<img align="left" alt="Microsoft Outlook" width="26px" src="[/../images/microsoftoutlook.svg]" style="padding-right:10px;" />](https://outlook.office.com)
-[<img align="left" alt="Microsoft Word" width="26px" src="[/../images/microsoftword.svg]" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/word)
-[<img align="left" alt="Microsoft Excel" width="26px" src="[/../images/microsoftexcel.svg.svg]" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/excel)
-[<img align="left" alt="Microsoft Power Point" width="26px" src="[/../images/microsoftpowerpoint.svg]" style="padding-right:10px;" />]([/images/microsoftoutlook.svg](https://www.microsoft.com/en-ww/microsoft-365/powerpoint))
+[<img align="left" alt="Microsoft Teams" width="26px" src="/images/microsoftteams.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+[<img align="left" alt="Microsoft Outlook" width="26px" src="/images/microsoftoutlook.svg" style="padding-right:10px;" />](https://outlook.office.com)
+[<img align="left" alt="Microsoft Word" width="26px" src="/images/microsoftword.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/word)
+[<img align="left" alt="Microsoft Excel" width="26px" src="/images/microsoftexcel.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/excel)
+[<img align="left" alt="Microsoft Power Point" width="26px" src="/images/microsoftpowerpoint.svg" style="padding-right:10px;" />]([/images/microsoftoutlook.svg](https://www.microsoft.com/en-ww/microsoft-365/powerpoint))
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />] -->
 <br />
