@@ -56,7 +56,7 @@
 <!-- [<img align="left" alt="Microsoft Outlook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" style="padding-right:10px;" />](https://outlook.office.com) -->
 [<img align="left" alt="Microsoft Word" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/word)
 [<img align="left" alt="Microsoft Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/excel)
-[<img align="left" alt="Microsoft Power Point" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />]([/images/microsoftoutlook.svg](https://www.microsoft.com/en-ww/microsoft-365/powerpoint))
+[<img align="left" alt="Microsoft Power Point" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/powerpoint)
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />] -->
 <br />
