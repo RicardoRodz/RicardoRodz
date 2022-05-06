@@ -1,14 +1,6 @@
 # Hello there, my name is Ricardo Rodriguez Gonzalez - aka [Gunzerex][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQIcQ3zI9siH8VKnlIC80Fw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/gunzerex?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-
-[![](https://img.shields.io/instagram/follow/gunzerex?color=1DA1F2&logo=instagram&style=for-the-badge)][instagram]
-[![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-Connect-blue)][linkedin]
-[![/images/discord.svg](https://img.shields.io/badge/Discord-Message-blueviolet)][discord]
-
-## I'm a Student, Developer, and Gamer!!
+### I'm a Student, Developer, and Gamer!!
 
 👦 He/Him
 🇵🇷 I am from Puerto Rico. <br>
@@ -19,13 +11,19 @@
 👨‍🏫 I am currently learning Python, HTML, CSS, and JavaScript. Also, I am learning Portuguese on Duolingo!
 
 
-### Connect with me:
-
-[![website](/images/maildotru.svg)](ricardo.rodriguez67@upr.edu)
+## Find me on:
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQIcQ3zI9siH8VKnlIC80Fw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/gunzerex?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![](https://img.shields.io/instagram/follow/gunzerex?color=1DA1F2&logo=instagram&style=for-the-badge)][instagram]
+[![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![/images/discord.svg](https://img.shields.io/badge/Discord-Message-blueviolet)][discord]
+[![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
+[![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+<!-- [![website](/images/maildotru.svg)](ricardo.rodriguez67@upr.edu) -->
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com) -->
 <!-- [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
-&nbsp;&nbsp;
-[![website](/images/linkedin.svg)](https://linkedin.com/in/ricky-rodz-gonz-se2754)
+<!-- &nbsp;&nbsp; -->
+<!-- [![website](/images/linkedin.svg)](https://linkedin.com/in/ricky-rodz-gonz-se2754) -->
 <!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ricky-rodz-gonz-se2754#gh-dark-mode-only) -->
 <!-- &nbsp;&nbsp; -->
 <!-- [![website](/images/youtube.svg)](https://youtube.com/gunzerex) -->
@@ -33,11 +31,11 @@
 <!-- &nbsp;&nbsp; -->
 <!-- [![website](/images/twitter.svg)](https://twitter.com/gunzerex) -->
 <!-- [![website](./img/twitter-dark.svg)](https://twitter.com/gunzerex#gh-dark-mode-only) -->
-&nbsp;&nbsp;
-[![website](/images/instagram.svg)](https://instagram.com/gunzerex)
+<!-- &nbsp;&nbsp; -->
+<!-- [![website](/images/instagram.svg)](https://instagram.com/gunzerex) -->
 <!-- [![website](./img/instagram-dark.svg)](https://instagram.com/gunzerex#gh-dark-mode-only) -->
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com)
 [<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/pycharm/)
@@ -73,6 +71,7 @@
 
 <!-- [website]:  -->
 <!-- [course]:  -->
+[email]: ricardo.rodriguez67@upr.edu
 [twitter]: https://twitter.com/gunzerex
 [youtube]: https://www.youtube.com/channel/UCQIcQ3zI9siH8VKnlIC80Fw
 [instagram]: https://www.instagram.com/gunzerex/
