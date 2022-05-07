@@ -1,25 +1,26 @@
-# Hello there, my name is Ricardo Rodriguez Gonzalez - aka [Gunzerex][youtube] 👋 
+# Hello there, my name is Ricardo Rodriguez Gonzalez - aka [Gunzerex][discord] 👋
 
 ### I'm a Student, Developer, and Gamer!!
 
-👦 He/Him
-🇵🇷 I am from Puerto Rico. <br>
-[🇪🇸/🇺🇸] I am also fully bilingual. (Spanish & English)<br>
-👨‍🎓 I am a Software Engineering undergraduate student at the University of Puerto Rico - Mayaguez Campus<br>
-💼 I am currently in my fourth year and actively seeking internships or COOP opportunities in order to acquire more professional experience.<br>
-👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others may be personal.<br>
-👨‍🏫 I am currently learning Python, HTML, CSS, and JavaScript. Also, I am learning Portuguese on Duolingo!
-
+- 👦 He/Him
+- 🇵🇷 I am from Puerto Rico.
+- [🇪🇸/🇺🇸] I am also fully bilingual. (Spanish & English)
+- 👨‍🎓 I am a Software Engineering undergraduate student at the University of Puerto Rico - Mayaguez Campus.
+- 💼 I am currently in my fourth year and actively seeking internships or COOP opportunities in order to acquire more professional experience.
+- 👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others may be personal.
+- 👨‍🏫 I am currently learning Python, HTML, CSS, and JavaScript. Also, I am learning Portuguese on Duolingo!
 
 ## Find me on:
+
 [![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
 [![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Twitter Follow](https://img.shields.io/twitter/follow/gunzerex?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![](https://img.shields.io/instagram/follow/gunzerex?color=1DA1F2&logo=instagram&style=for-the-badge)][instagram]
-[<img align="left" alt="Discord" width="26px" src="/images/discord.svg" style="padding-right:10px;" />][discord]
-<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQIcQ3zI9siH8VKnlIC80Fw?logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
 
+<!-- [<img align="left" alt="Discord" width="26px" src="/images/discord.svg" style="padding-right:10px;" />][discord] -->
+
+<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQIcQ3zI9siH8VKnlIC80Fw?logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
 
 <!-- [![website](/images/maildotru.svg)](ricardo.rodriguez67@upr.edu) -->
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com) -->
@@ -62,13 +63,34 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📈 GitHub Statistics 📉</summary>
 
   <img align="left" alt="RicardoRodz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoRodz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+<details>
+  <summary>💾 Projects Report 💾</summary>
+
+| Project Idea              	| Current Status 	|
+|:---------------------------:	|:----------------:	|
+| <a href="https://github.com/RicardoRodz/Needleman-Wunsch-Project">Needleman-Wunsch</a>          	| 🟩              	|
+| <a href="https://github.com/RicardoRodz/Bloom-Filter-Project">Bloom Filter</a>              	| 🟩              	|
+| <a href="https://github.com/RicardoRodz/Keylogger">Keylogger</a>                 	| ⬛️              	|
+| <a href="https://github.com/RicardoRodz/Socket-Communication">Sockets</a>                   	| 🟩              	|
+| <a href="https://github.com/RicardoRodz/Switch">Switch</a>                    	| ⬛️              	|
+| <a href="https://github.com/RicardoRodz/Morse-Coding">Morse Coding</a>             	| ⬛️              	|
+| <a href="https://github.com/RicardoRodz/Scheduler">Scheduler</a>                 	| ⬛️              	|
+| <a href="https://github.com/RicardoRodz/Random-Password-Generator">Random Password Generator</a>	| ⬛️              	|
+| <a href="https://github.com/RicardoRodz/Grade-Weight-Calculator">Grade Weight Calculator</a>  	| ⬛️              	|
+
+| Not Started | Incomplete | Completed |
+| :---------: | :--------: | :-------: |
+|     ⬛️     |     🟨     |    🟩     |
+
+</details>
 
 <!-- [protfolio]:  -->
+
 [email]: ricardo.rodriguez67@upr.edu
 [twitter]: https://twitter.com/gunzerex
 [youtube]: https://www.youtube.com/channel/UCQIcQ3zI9siH8VKnlIC80Fw
