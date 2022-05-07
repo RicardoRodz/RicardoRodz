@@ -89,7 +89,7 @@
 >_"The way to succed is to double your failure"_ - Thomas J. Watson
 <!-- [protfolio]:  -->
 
-[email]: ricardo.rodriguez67@upr.edu
+[email]: mailto:ricardo.rodriguez67@upr.edu
 [twitter]: https://twitter.com/gunzerex
 [youtube]: https://www.youtube.com/channel/UCQIcQ3zI9siH8VKnlIC80Fw
 [instagram]: https://www.instagram.com/gunzerex/
