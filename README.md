@@ -40,6 +40,8 @@
 [<img align="left" alt="Microsoft Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/excel)
 [<img align="left" alt="Microsoft Power Point" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/powerpoint)
 
+<br>
+
 ### Languages:
 
 [<img align="left" alt="Pyhton" width="26px" src="/images/icons8-python.svg" style="padding-right:10px;" />](https://www.python.org/psf-landing/)
