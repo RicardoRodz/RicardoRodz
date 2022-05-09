@@ -1,5 +1,6 @@
 <!-- ![banner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-# Hello there, my name is Ricardo Rodriguez Gonzalez - aka [Gunzerex][discord] 👋
+
+# Hello there! My name is Ricardo Y. Rodríguez González - aka [Gunzerex][discord] 👋
 
 ### I'm a Student, Developer, and Gamer
 
@@ -17,6 +18,7 @@
 - 👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others may be personal.
 
 ---
+
 ## Connect with me on:
 
 1. [![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
@@ -28,6 +30,7 @@
 4. [![Twitter Follow](https://img.shields.io/twitter/follow/gunzerex?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ---
+
 ## Languages & Tools I've Used:
 
 ### Programming Languages:
@@ -44,6 +47,7 @@
 ### Work Tools:
 
 <!-- [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com#gh-dark-mode-only) -->
+
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com#gh-light-mode-only)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com)
 [<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/pycharm/)
@@ -57,7 +61,7 @@
 <br />
 <br />
 <br>
-  
+
 
 ---
 
@@ -65,9 +69,10 @@
   <summary>📈 GitHub Statistics 📉</summary>
 
    <!-- Source: (https://github.com/anuraghazra/github-readme-stats) -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodz&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoRodz&show_icons=true&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodz&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoRodz&show_icons=true&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
   <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RicardoRodz&)   -->
 
@@ -93,10 +98,16 @@
 |     ⬛️     |     🟨     |    🟩     |
 
 </details>
+<br>
+
+<a href="https://drive.google.com/file/d/17TlVCrH7tcM2tgY59BaDvUQ3zXGGK8pU/view?usp=sharing" download="Resume">
+  <button type="button" style="background: skyblue">View Resume</button>
+</a>
 
 ---
 
->_"The way to succed is to double your failure"_ - Thomas J. Watson
+> _"The way to succed is to double your failure"_ - Thomas J. Watson
+
 <!-- [protfolio]:  -->
 
 [email]: mailto:ricardo.rodriguez67@upr.edu
