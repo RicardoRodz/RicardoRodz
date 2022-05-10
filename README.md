@@ -1,4 +1,4 @@
-![banner](/images/spidermancover.png)
+![banner](https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif)
 
 ---
 # Hello there! My name is Ricardo Y. Rodríguez González - aka [Gunzerex][discord] 👋
