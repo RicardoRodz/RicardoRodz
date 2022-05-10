@@ -1,5 +1,6 @@
-<!-- ![banner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+![banner](/images/spidermancover.png)
 
+---
 # Hello there! My name is Ricardo Y. Rodríguez González - aka [Gunzerex][discord] 👋
 
 ### I'm a Student, Developer, and Gamer
@@ -27,7 +28,12 @@
 
 3. [![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
-4. [![Twitter Follow](https://img.shields.io/twitter/follow/gunzerex?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+
+
+<img src="/Users/ricardorodriguez/Desktop/Playground/RicardoRodz/images/thumbsup.gif" width="500" height="210" allign="center">
+
+<small>Source: https://giphy.com/gifs/BWD3CtcudWL28</small>
 
 ---
 
@@ -111,8 +117,8 @@
 <!-- [protfolio]:  -->
 
 [email]: mailto:ricardo.rodriguez67@upr.edu
-[twitter]: https://twitter.com/gunzerex
+[twitter]: https://twitter.com/RickyRodz7
 [youtube]: https://www.youtube.com/channel/UCQIcQ3zI9siH8VKnlIC80Fw
 [instagram]: https://www.instagram.com/gunzerex/
-[linkedin]: https://www.linkedin.com/in/ricky-rodz-gonz-se2754/
+[linkedin]: https://www.linkedin.com/in/RickyRodz7/
 [discord]: https://discord.com/users/526083713444872202
