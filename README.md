@@ -1,4 +1,4 @@
-![banner](https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif)
+![banner](https://github.com/RicardoRodz/RicardoRodz/blob/master/images/spidermancover.png)
 
 ---
 # Hello there! My name is Ricardo Y. Rodríguez González - aka [Gunzerex][discord] 👋
@@ -31,7 +31,7 @@
 4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 
-<img src="/Users/ricardorodriguez/Desktop/Playground/RicardoRodz/images/thumbsup.gif" width="500" height="210" allign="center">
+<img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif" width="500" height="210" allign="center">
 
 <small>Source: https://giphy.com/gifs/BWD3CtcudWL28</small>
 
