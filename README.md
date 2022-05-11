@@ -103,7 +103,8 @@
 <summary>📨 Contact Information 📨</summary>
 
 ## Connect with me on:
-
+  
+  
 1. [![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
 
 2. [![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -113,16 +114,19 @@
 4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 
-<img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif" width="500" height="210" allign="center">
+<img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif" width="500" height="210" align="center">
 
 <small>Source: https://giphy.com/gifs/BWD3CtcudWL28</small>
-
+  
 </details>
 
+<br>
 
-<a href="https://drive.google.com/file/d/17TlVCrH7tcM2tgY59BaDvUQ3zXGGK8pU/view?usp=sharing" download="Resume">
+<p align="center">
+  <a target="_blank" href="https://drive.google.com/file/d/17TlVCrH7tcM2tgY59BaDvUQ3zXGGK8pU/view?usp=sharing" download="Resume">
   <img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/resume-icon-3.png?raw=true" height="100" width="100px">
-</a>
+  </a>
+</p>
 
 ---
 
