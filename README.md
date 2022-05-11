@@ -1,7 +1,12 @@
 ![banner](https://github.com/RicardoRodz/RicardoRodz/blob/master/images/spidermancover.png)
 
----
 # Hello there! My name is Ricardo Y. Rodríguez González - aka [Gunzerex][discord] 👋
+
+---
+
+<details>
+
+<summary>🙋 About Me 🙋</summary>
 
 ### I'm a Student, Developer, and Gamer
 
@@ -18,26 +23,14 @@
   - Portuguese
 - 👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others may be personal.
 
----
+</details>
 
-## Connect with me on:
+<br>
 
-1. [![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
+<details>
 
-2. [![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-
-3. [![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-
-4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-
-
-<img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif" width="500" height="210" allign="center">
-
-<small>Source: https://giphy.com/gifs/BWD3CtcudWL28</small>
-
----
-
-## Languages & Tools I've Used:
+<summary>🛠 Languages & Tools I've Used 🛠</summary>
+<!-- ## Languages & Tools I've Used: -->
 
 ### Programming Languages:
 
@@ -66,10 +59,9 @@
 [<img align="left" alt="Microsoft Power Point" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/powerpoint)
 <br />
 <br />
+</details>
 <br>
 
-
----
 
 <details>
   <summary>📈 GitHub Statistics 📉</summary>
@@ -106,8 +98,30 @@
 </details>
 <br>
 
+<details>
+
+<summary>📨 Contact Information 📨</summary>
+
+## Connect with me on:
+
+1. [![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
+
+2. [![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+
+3. [![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+
+4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+
+
+<img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif" width="500" height="210" allign="center">
+
+<small>Source: https://giphy.com/gifs/BWD3CtcudWL28</small>
+
+</details>
+
+
 <a href="https://drive.google.com/file/d/17TlVCrH7tcM2tgY59BaDvUQ3zXGGK8pU/view?usp=sharing" download="Resume">
-  <button type="button" style="background: skyblue">View Resume</button>
+  <img src="">
 </a>
 
 ---
