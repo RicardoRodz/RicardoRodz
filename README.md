@@ -121,7 +121,7 @@
 
 
 <a href="https://drive.google.com/file/d/17TlVCrH7tcM2tgY59BaDvUQ3zXGGK8pU/view?usp=sharing" download="Resume">
-  <img src="">
+  <img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/icons8-resume-64.png?raw=true">
 </a>
 
 ---
