@@ -66,7 +66,9 @@
 <details>
   <summary>📈 GitHub Statistics 📉</summary>
 
-   <!-- Source: (https://github.com/anuraghazra/github-readme-stats) -->
+<!-- Source: (https://github.com/anuraghazra/github-readme-stats) -->
+ <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorodz&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorodz" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodz&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
@@ -113,10 +115,11 @@
 
 4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
-
-<img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif" width="500" height="210" align="center">
-
-<small>Source: https://giphy.com/gifs/BWD3CtcudWL28</small>
+<!-- <p align="center"> -->
+<img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif" width="500" height="210">
+<!-- <p> -->
+  
+<!-- <small>Source: https://giphy.com/gifs/BWD3CtcudWL28</small> -->
   
 </details>
 
