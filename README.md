@@ -126,7 +126,7 @@
 <br>
 
 <p align="center">
-  <a target="_blank" href="https://drive.google.com/file/d/17TlVCrH7tcM2tgY59BaDvUQ3zXGGK8pU/view?usp=sharing" download="Resume">
+  <a target="_blank" href="https://drive.google.com/file/d/11J_PUd3Wciz9Cr-JscXybrIJy2ZhYND7/view?usp=sharing" download="Resume">
   <img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/resume-icon-3.png?raw=true" height="100" width="100px">
   </a>
 </p>
