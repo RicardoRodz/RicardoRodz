@@ -1,6 +1,6 @@
 # Hello there! My name is Ricardo Y. Rodríguez González - aka [Gunzerex][discord] 👋
 
-<img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/whatspidermancover.png">
+<img src="/images/spidermancover.svg">
 
 ---
 
@@ -11,17 +11,17 @@
 ### I'm a Student, Developer, and Gamer
 
 - 👦 <strong>He/Him</strong>
-- 🇵🇷 I am from <strong>Puerto Rico</strong>.
-- [🇪🇸/🇺🇸] I am also fully bilingual. (Spanish & English)
-- 👨‍🎓 I am a <strong>Software Engineering</strong> undergraduate student at the University of Puerto Rico - Mayaguez Campus.
-- 💼 I am currently in my fourth year and actively seeking <strong>interships</strong> or <strong>COOP</strong> opportunities in order to acquire more professional experience.
-- 👨‍🏫 I am currently learning:
-  - Python
+- 🇵🇷 From <strong>Puerto Rico</strong>.
+- [🇪🇸/🇺🇸] Fully bilingual. (Spanish & English)
+- 👨‍🎓 <strong>Software Engineering</strong> undergraduate student at University of Puerto Rico - Mayaguez Campus.
+- 💼 I am currently in my fifth year and actively seeking <strong>interships</strong> or <strong>COOP</strong> opportunities in order to acquire more professional experience.
+- 👨‍🏫 I am learning:
   - HTML5
-  - CSS
+  - CSS3
   - JavaScript
   - Portuguese
-- 👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others may be personal.
+  - Game Development (2D Games)
+- 👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others of personal interest.
 
 </details>
 
@@ -59,9 +59,9 @@
 [<img align="left" alt="Microsoft Power Point" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/powerpoint)
 <br />
 <br />
+
 </details>
 <br>
-
 
 <details>
   <summary>📈 GitHub Statistics 📉</summary>
@@ -81,21 +81,36 @@
 <details>
   <summary>💾 Projects & Repositories 💾</summary>
 
-|                                           Project Idea                                           | Current Status |
-| :----------------------------------------------------------------------------------------------: | :------------: |
-|      <a href="https://github.com/RicardoRodz/Needleman-Wunsch-Project">Needleman-Wunsch</a>      |       🟩       |
-|          <a href="https://github.com/RicardoRodz/Bloom-Filter-Project">Bloom Filter</a>          |       🟩       |
-|                 <a href="https://github.com/RicardoRodz/Keylogger">Keylogger</a>                 |      ⬛️       |
-|            <a href="https://github.com/RicardoRodz/Socket-Communication">Sockets</a>             |       🟩       |
-|                    <a href="https://github.com/RicardoRodz/Switch">Switch</a>                    |      ⬛️       |
-|              <a href="https://github.com/RicardoRodz/Morse-Coding">Morse Coding</a>              |      ⬛️       |
-|                 <a href="https://github.com/RicardoRodz/Scheduler">Scheduler</a>                 |      ⬛️       |
-| <a href="https://github.com/RicardoRodz/Random-Password-Generator">Random Password Generator</a> |      ⬛️       |
-|   <a href="https://github.com/RicardoRodz/Grade-Weight-Calculator">Grade Weight Calculator</a>   |      ⬛️       |
+### Status Legend:
 
-| Not Started | Incomplete | Completed |
-| :---------: | :--------: | :-------: |
-|     ⬛️     |     🟨     |    🟩     |
+| Completed | Incomplete | Not Started |
+| :-------: | :--------: | :---------: |
+|    🟩     |     🟨     |     ⬛️     |
+
+### Personal Projects:
+
+|                                           Project Name                                           | Status |
+| :----------------------------------------------------------------------------------------------: | :----: |
+|      <a href="https://github.com/RicardoRodz/Needleman-Wunsch-Project">Needleman-Wunsch</a>      |   🟩   |
+|          <a href="https://github.com/RicardoRodz/Bloom-Filter-Project">Bloom Filter</a>          |   🟩   |
+|                 <a href="https://github.com/RicardoRodz/Keylogger">Keylogger</a>                 |  ⬛️   |
+|            <a href="https://github.com/RicardoRodz/Socket-Communication">Sockets</a>             |   🟩   |
+|                    <a href="https://github.com/RicardoRodz/Switch">Switch</a>                    |  ⬛️   |
+|              <a href="https://github.com/RicardoRodz/Morse-Coding">Morse Coding</a>              |  ⬛️   |
+|                 <a href="https://github.com/RicardoRodz/Scheduler">Scheduler</a>                 |  ⬛️   |
+| <a href="https://github.com/RicardoRodz/Random-Password-Generator">Random Password Generator</a> |  ⬛️   |
+|   <a href="https://github.com/RicardoRodz/Grade-Weight-Calculator">Grade Weight Calculator</a>   |  ⬛️   |
+|         <a href="https://github.com/RicardoRodz/QR-Code-Generator">QR Code Generator</a>         |   🟩   |
+
+### Game Develpment Projects:
+
+|   Project Name    | Status |
+| :---------------: | :----: |
+|     <a href="https://github.com/RicardoRodz/Timber">Timber!!!</a>    |   🟨   |
+|       Pong        |  ⬛️   |
+|   Zombie Arena    |  ⬛️   |
+|  Thomas was late  |  ⬛️   |
+| Space Invaders ++ |  ⬛️   |
 
 </details>
 <br>
@@ -105,8 +120,7 @@
 <summary>📨 Contact Information 📨</summary>
 
 ## Connect with me on:
-  
-  
+
 1. [![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
 
 2. [![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -126,7 +140,7 @@
 <br>
 
 <p align="center">
-  <a target="_blank" href="https://drive.google.com/file/d/11J_PUd3Wciz9Cr-JscXybrIJy2ZhYND7/view?usp=sharing" download="Resume">
+  <a target="_blank" href="https://drive.google.com/file/d/1_0wkfXDFb3v7pZ3qrKqGJVHFGVSp-0HS/view?usp=sharing" download>
   <img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/resume-icon-3.png?raw=true" height="100" width="100px">
   </a>
 </p>
