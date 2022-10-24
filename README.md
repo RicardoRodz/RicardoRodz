@@ -13,13 +13,12 @@
 - 👦 <strong>He/Him</strong>
 - 🇵🇷 From <strong>Puerto Rico</strong>.
 - [🇪🇸/🇺🇸] Fully bilingual. (Spanish & English)
-- 👨‍🎓 <strong>Software Engineering</strong> undergraduate student at University of Puerto Rico - Mayaguez Campus.
-- 💼 I am currently in my fifth year and actively seeking <strong>interships</strong> or <strong>COOP</strong> opportunities in order to acquire more professional experience.
-- 👨‍🏫 I am learning:
+- 👨‍🎓 <strong>Software Engineering</strong> undergraduate student at University of Puerto Rico, Mayaguez Campus.
+- 💼 In my fifth year and actively seeking <strong>interships</strong> or <strong>COOP</strong> opportunities in order to acquire more professional experience.
+- 👨‍🏫 Currently learning:
   - HTML5
   - CSS3
   - JavaScript
-  - Portuguese
   - Game Development (2D Games)
 - 👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others of personal interest.
 
@@ -35,8 +34,8 @@
 ### Programming Languages:
 
 [<img align="left" alt="Pyhton" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />](https://www.python.org/psf-landing/)
-[<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" style="padding-right:10px;" />](https://www.java.com/en/)
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />](https://www.cplusplus.com)
+[<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" style="padding-right:10px;" />](https://www.java.com/en/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/default.asp)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com)
@@ -121,13 +120,13 @@
 
 ## Connect with me on:
 
-1. [![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
+[![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
 
-2. [![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-3. [![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
-4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+<!-- 4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter] -->
 
 <!-- <p align="center"> -->
 <img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/thumbsup.gif" width="500" height="210">
