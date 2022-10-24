@@ -139,7 +139,7 @@
 <br>
 
 <p align="center">
-  <a target="_blank" href="https://drive.google.com/file/d/1_0wkfXDFb3v7pZ3qrKqGJVHFGVSp-0HS/view?usp=sharing" download>
+  <a target="_blank" href="https://docs.google.com/document/d/1K1nDWwwfu4W8KVSqZxU0AMYnmufhd-KA/edit?usp=sharing&ouid=102464683909848014279&rtpof=true&sd=true" download>
   <img src="https://github.com/RicardoRodz/RicardoRodz/blob/master/images/resume-icon-3.png?raw=true" height="100" width="100px">
   </a>
 </p>
