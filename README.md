@@ -11,16 +11,14 @@
 ### I'm a Student, Developer, and Gamer
 
 - 👦 <strong>He/Him</strong>
-- 🇵🇷 From <strong>Puerto Rico</strong>.
+- From <strong>Puerto Rico</strong>.
 - [🇪🇸/🇺🇸] Fully bilingual. (Spanish & English)
 - 👨‍🎓 <strong>Software Engineering</strong> undergraduate student at University of Puerto Rico, Mayaguez Campus.
-- 💼 In my fifth year and actively seeking <strong>interships</strong> or <strong>COOP</strong> opportunities in order to acquire more professional experience.
+- 💼 In my fifth year and actively seeking <strong>interships</strong> and/or <strong>COOP</strong> opportunities.
 - 👨‍🏫 Currently learning:
-  - HTML5
-  - CSS3
-  - JavaScript
   - Game Development (2D Games)
-- 👨‍💻 In this page I'll be presenting some projects I work on. Some are projects I design for my courses and others of personal interest.
+  - Unity Game Development
+  - Unreal Engine 5 Game Development
 
 </details>
 
@@ -28,7 +26,7 @@
 
 <details>
 
-<summary>🛠 Languages & Tools I've Used 🛠</summary>
+<summary>🛠 Languages & Tools🛠</summary>
 <!-- ## Languages & Tools I've Used: -->
 
 ### Programming Languages:
@@ -42,7 +40,7 @@
 
 <br>
 
-### Work Tools:
+### Tools & Apps:
 
 <!-- [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com#gh-dark-mode-only) -->
 
@@ -56,6 +54,7 @@
 [<img align="left" alt="Microsoft Word" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/word)
 [<img align="left" alt="Microsoft Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/excel)
 [<img align="left" alt="Microsoft Power Point" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-ww/microsoft-365/powerpoint)
+[<img align="left" alt="PyGame" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" style="padding-right:10px;" />](https://www.pygame.org/news)
 <br />
 <br />
 
@@ -78,7 +77,7 @@
 </details>
 <br>
 <details>
-  <summary>💾 Projects & Repositories 💾</summary>
+  <summary>💾 Projects 💾</summary>
 
 ### Status Legend:
 
@@ -105,11 +104,14 @@
 
 |   Project Name    | Status |
 | :---------------: | :----: |
-|     <a href="https://github.com/RicardoRodz/Timber">Timber!!!</a>    |   🟨   |
-|       Pong        |  ⬛️   |
-|   Zombie Arena    |  ⬛️   |
-|  Thomas was late  |  ⬛️   |
-| Space Invaders ++ |  ⬛️   |
+|     <a href="https://github.com/RicardoRodz/Game_Development/tree/main/PyGame/Dino%20Run">Dino Run</a>    |   🟩   |
+|       Car Racing        |  🟨   |
+|   Pong    |  ⬛️   |
+|  Snake  |  ⬛️   |
+| Brick Breaker |  ⬛️   |
+| Tic Tac Toe |  ⬛️   |
+| Flappy Bird |  ⬛️   |
+| Helicopter Game |  ⬛️   |
 
 </details>
 <br>
@@ -118,13 +120,13 @@
 
 <summary>📨 Contact Information 📨</summary>
 
-## Connect with me on:
+## Contact me through:
 
 [![/images/microsoftoutlook.svg](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitet)][email]
 
 [![/images/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-[![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+<!-- [![/images/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram] -->
 
 <!-- 4. [![Twitter Follow](https://img.shields.io/twitter/follow/RickyRodz7?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter] -->
 
