@@ -1,4 +1,4 @@
-# Hello there! My name is Ricardo Y. Rodríguez González 👋
+# Hello there! My name is Ricardo Y. Rodríguez González (He/Him) 👋
 
 <img src="/images/spidermancover.png" alt="Spiderman Cover">
 
@@ -10,7 +10,6 @@
 
 ### I'm a Student, Developer, and Gamer
 
-- 👦 <strong>He/Him</strong>
 - From <strong>Puerto Rico</strong>.
 - [🇪🇸/🇺🇸] Fully bilingual. (Spanish & English)
 - 👨‍🎓 <strong>Software Engineering</strong> undergraduate student at University of Puerto Rico, Mayaguez Campus.
