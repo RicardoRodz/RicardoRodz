@@ -1,4 +1,4 @@
-# Hello there! My name is Ricardo Y. Rodríguez González - aka [Gunzerex][discord] 👋
+# Hello there! My name is Ricardo Y. Rodríguez González 👋
 
 <img src="/images/spidermancover.png" alt="Spiderman Cover">
 
